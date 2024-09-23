@@ -36,6 +36,10 @@
 
 ---
 
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KoganTheDev&custom_title=Yuval%20Kogan`s%20Contributions%20&hide_border=true&theme=github-compact)](https://github.com/KoganTheDev/github-readme-activity-graph)
+
+---
+
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
