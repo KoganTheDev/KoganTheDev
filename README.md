@@ -1,7 +1,7 @@
 # Hi, I'm Yuval Kogan! <img src="https://media.giphy.com/media/3oFzlW8dht4DdvwBqg/giphy.gif" width="50" alt="Dog GIF">
 
 <p>
-    <em>Software Engineer at <a href="https://w3.braude.ac.il/?lang=en">Braude College of Engineering</a> 
+    <em>Software Engineering student at <a href="https://w3.braude.ac.il/?lang=en">Braude College of Engineering</a> 
     <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" alt="PC Mac Laptop GIF">
     </em>
 </p>
