@@ -1,13 +1,12 @@
 # Hi, I'm Yuval Kogan! <img src="https://media.giphy.com/media/3oFzlW8dht4DdvwBqg/giphy.gif" width="50" alt="Dog GIF">
 
 <p>
-    <em>Software Engineering student at <a href="https://w3.braude.ac.il/?lang=en">Braude College of Engineering</a> 
+    <em>Software Engineering student at <a href="https://w3.braude.ac.il/?lang=en" alt="Link to braude`s english home page">Braude College of Engineering</a> 
     <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" alt="PC Mac Laptop GIF">
     </em>
 </p>
 
 > "The most important thing about software is that it is not about the software; it is about the people."
-
 
 ---
 
@@ -56,7 +55,7 @@
 <img align="left" alt="Visual Studio icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="Eclipse icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
 <img align="left" alt="Git icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Git icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Linux icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <br clear="both" />
 
 ---
