@@ -65,7 +65,7 @@
 | Platform | Link |
 |----------|------|
 | <img align="left" alt="LinkedIn logo" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> LinkedIn | [Yuval Kogan](https://www.linkedin.com/in/yuval-kogan) |
-| <img align="left" alt="Gmail logo" width="20px" src="./Images/gmail icon.svg" /> Email    | [Yuvalkogan123@gmail.com](mailto:Yuvalkogan123@gmail.com) |
+| <img align="left" alt="Gmail logo" width="20px" src="./Images/gmail icon.svg" /> Email    | [Yuval-Kogan@outlook.co.il](mailto:Yuval-Kogan@outlook.co.il) |
 
 
 ---
