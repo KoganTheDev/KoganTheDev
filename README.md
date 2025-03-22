@@ -31,10 +31,7 @@
 
 ---
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=KoganTheDev&show_icons=true&theme=tokyonight" width="450">
-    <img src="https://leetcard.jacoblin.cool/Yuval?theme=dark&font=JetBrains%20Mono" width="470">
-</p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoganTheDev&show_icons=true&theme=tokyonight)
 
 ---
 
