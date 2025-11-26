@@ -31,10 +31,6 @@
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoganTheDev&show_icons=true&theme=tokyonight)
-
----
-
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KoganTheDev&custom_title=Yuval%20Kogan`s%20Contributions%20&hide_border=true&theme=github-compact)](https://github.com/KoganTheDev/github-readme-activity-graph)
 
 ---
