@@ -12,7 +12,7 @@
 
 ### ✨ A little more about me...
 
-- 🌱 I’m currently learning and exploring **C++**.
+- 🌱 I’m currently learning and exploring **Embedded Software**.
 - 👯 I’m open to collaborating on **open-source** and exciting tech projects.
 - 💬 Feel free to ask me about **Python, C, C++, Java**, or software development in general!
 - 😄 Pronouns: **He/Him/His**
@@ -35,26 +35,32 @@
 
 ---
 
-### 🛠️ Languages:
-<img align="left" alt="Python icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="C icon" width="50px" style="padding-right:10px;" src="./Images/c logo.svg" />
-<img align="left" alt="C++ icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Java icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="HTML5 icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3 icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<br clear="both" />
+### 🛠️ Languages & Core:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" />
+  <img src="https://img.shields.io/badge/FreeRTOS-2596be?style=flat&logo=freertos&logoColor=white" height="40" title="FreeRTOS" />
+</p>
 
----
+### 🔧 Tools & Ecosystem:
+<p>
+  <img src="https://cdn.simpleicons.org/espressif/E30613" width="45" title="ESP32" />
+  <img src="https://cdn.simpleicons.org/platformio/f3a333" width="45" title="PlatformIO" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="45" title="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width="45" title="GCC" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" title="VS Code" />
+</p>
 
-### 🔧 Tools:
-<img align="left" alt="VS code icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Visual Studio icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<img align="left" alt="Eclipse icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-<img align="left" alt="Git icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Linux icon" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<br clear="both" />
-
----
+### 🛜 Networking & Protocols:
+<p>
+  <img src="https://cdn.simpleicons.org/mqtt/660066" width="45" title="MQTT" />
+  <img src="https://cdn.simpleicons.org/bluetooth/0082FC" width="45" title="BLE" />
+  <img src="https://cdn.simpleicons.org/wi-fi/000000" width="45" title="Wi-Fi" />
+  <img src="https://cdn.simpleicons.org/bluetooth/0082FC" width="45" title="BLE" />
+</p>
 
 ### 🤝 Connect with me:
 
