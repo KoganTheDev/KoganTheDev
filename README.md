@@ -27,7 +27,7 @@
 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoganTheDev&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KoganTheDev&layout=compact&theme=tokyonight&count_private=true&hide=css,html)
 
 ---
 
@@ -52,14 +52,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" width="45" title="GCC" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="45" title="Visual Studio" />
 </p>
 
 ### 🛜 Networking & Protocols:
 <p>
   <img src="https://cdn.simpleicons.org/mqtt/660066" width="45" title="MQTT" />
   <img src="https://cdn.simpleicons.org/bluetooth/0082FC" width="45" title="BLE" />
-  <img src="https://cdn.simpleicons.org/wi-fi/000000" width="45" title="Wi-Fi" />
-  <img src="https://cdn.simpleicons.org/bluetooth/0082FC" width="45" title="BLE" />
+  <img src="https://img.shields.io/badge/Wi--Fi-000000?style=for-the-badge&logo=wi-fi&logoColor=white" height="30" title="Wi-Fi" />
 </p>
 
 ### 🤝 Connect with me:
