@@ -12,11 +12,9 @@
 
 ### ✨ A little more about me...
 
-- 🌱 I’m currently learning and exploring **Embedded Software**.
-- 👯 I’m open to collaborating on **open-source** and exciting tech projects.
+- 🌱 I’m open to collaborating on **open-source** and exciting tech projects.
 - 💬 Feel free to ask me about **Python, C, C++, Java**, or software development in general!
 - 😄 Pronouns: **He/Him/His**
-- 🎮 Hobbies: Sports & Gaming.
 
 ---
 
