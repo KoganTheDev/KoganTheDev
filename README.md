@@ -6,8 +6,6 @@
     </em>
 </p>
 
-> "The most important thing about software is that it is not about the software; it is about the people."
-
 ---
 
 ### ✨ A little more about me...
@@ -26,10 +24,6 @@
 
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KoganTheDev&layout=compact&theme=tokyonight&count_private=true&hide=css,html)
-
----
-
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KoganTheDev&custom_title=Yuval%20Kogan`s%20Contributions%20&hide_border=true&theme=github-compact)](https://github.com/KoganTheDev/github-readme-activity-graph)
 
 ---
 
