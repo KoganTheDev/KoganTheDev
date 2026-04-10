@@ -23,7 +23,7 @@
 -->
 
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KoganTheDev&layout=compact&theme=tokyonight&count_private=true&hide=css,html)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KoganTheDev&layout=compact&theme=tokyonight&count_private=true&hide=css,html,jupyter%20notebook)
 
 ---
 
